@@ -28,7 +28,7 @@ const Home = async ({ searchParams }: HomeProps) => {
   return (
     <ClientOnly>
       <Container>
-        
+        <div className="text-2xl">Welcome to e-labour chowk</div>
         <div 
           className="
             pt-48
